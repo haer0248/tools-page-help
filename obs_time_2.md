@@ -4,7 +4,16 @@
 
 ## OBS 設定
 建議高度 `80`  
-建議寬度 `最低600` 若有設定下方星期 `最低700`
+建議寬度 `最低600` 若有設定下方星期 `最低700`  
+字體預設 `Roboto Mono`，若畫面上字體出現問題，請右鍵進屬性 → 更新當前頁面快取  
+  
+自訂 CSS
+```css
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+html, body { 
+    font-family: 'Roboto Mono', monospace; 
+}
+```
 
 ## 星期
 qs: `week`  
