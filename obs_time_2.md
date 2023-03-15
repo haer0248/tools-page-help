@@ -1,5 +1,6 @@
 # 小工具-時間可設定資料
-`https://tools.haer0248.me/obs_time_2`
+[`https://tools.haer0248.me/obs_time_2`](https://tools.haer0248.me/obs_time_2)  
+若使用在普通瀏覽器將會顯示幫助，若使用 OBS 將會自動隱藏  
 
 ## OBS 設定
 建議高度 `80`  
