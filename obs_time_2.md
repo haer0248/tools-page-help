@@ -29,12 +29,8 @@ qs: `opacity`
 透明度計算，若輸入 5 = `5 / 10 = 0.5`  
 使用 `none` 來取消背景透明
 
-## 預覽
-qs: `preview`  
-使用瀏覽器時可輸入 `1` 隱藏幫助行
 
 ## 使用方式
 於網址後方加上上方提供的 `qs` (query string)  
-`?preview=1&week=en&opacity=5` → 不顯示幫助行，顯示周 (英文)，透明度為 0.5  
 `?week=en&opacity=5` → 顯示周 (英文)，透明度為 0.5  
 `?opacity=5` → 透明度為 0.5
